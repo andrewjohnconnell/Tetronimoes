@@ -16,6 +16,3 @@ P: Pause
 
 ## Credits
 Taylors of Harrogate, for the sublime coffee that's kept me awake while writing this one up.
-]]></content>
-  <tabTrigger>readme</tabTrigger>
-</snippet>
